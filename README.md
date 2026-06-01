@@ -1,7 +1,11 @@
 # Description
 This project was meant to scrape data from the page: iassit, clean and analyze the data and interpret it visually for research purposes
 
-# Overview 
+## Language
+
+The project was originally developed in [Google Colab](https://colab.research.google.com/drive/1eEyOs6d8hWkX-BZ2KYRWpeJoVShEDoIM) using Jupyter Notebook, python and assistance from ChatGPT to support the data extraction process and structure the extracted data according to the project objectives.
+
+## Overview 
 
 The goal of this project was to extract and analyze job advertisements for research data librarians from the IASSIST online job repository over a five-year period. It focused on identifying trends in job postings, including core responsibilities, required qualifications, and relevant skills.
 
@@ -18,7 +22,7 @@ The extracted data included:
 * Skills
 * Source URL
 
-# Output
+## Output
 
 A visual representation showing how the extracted data correlated and related to one another was created and presented at a conference in Ghana for a research publication.
 
@@ -43,7 +47,5 @@ For Example, this image below, in the section title "Description" , there is mor
   
 * Although some data was successfully extracted, several fields returned null values because the HTML structure varied across different job postings.
 
-## Language
 
-The project was originally developed in [Google Colab](https://colab.research.google.com/drive/1eEyOs6d8hWkX-BZ2KYRWpeJoVShEDoIM) using Jupyter Notebook, python and assistance from ChatGPT to support the data extraction process and structure the extracted data according to the project objectives.
 
