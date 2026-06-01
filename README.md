@@ -45,5 +45,5 @@ For Example, this image below, in the section title "Description" , there is mor
 
 ## Language
 
-The project was originally developed in Google Colab using Python, with assistance from ChatGPT to support the data extraction process and structure the extracted data according to the project objectives.
+The project was originally developed in [Google Colab](https://colab.research.google.com/drive/1eEyOs6d8hWkX-BZ2KYRWpeJoVShEDoIM) using Jupyter Notebook, python and assistance from ChatGPT to support the data extraction process and structure the extracted data according to the project objectives.
 
